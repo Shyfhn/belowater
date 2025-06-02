@@ -235,7 +235,7 @@
                             </ul>
                         </p>
                         <h1>Rp. 1.830.000</h1>
-                        <form action="form.php" method="post">
+                        <form action="" method="post">
                             <button type="submit" name="paket" value="paket1">Beli</button>
                         </form>
                     </div>
@@ -253,7 +253,7 @@
                             </ul>
                         </p>
                         <h1>Rp. 3.460.000</h1>
-                        <form action="form.php" method="post">
+                        <form action="" method="post">
                             <button type="submit" name="paket" value="paket2">Beli</button>
                         </form>
                     </div>
@@ -271,7 +271,7 @@
                             </ul>
                         </p>
                         <h1>Rp. 6.350.000</h1>
-                        <form action="form.php" method="post">
+                        <form action="" method="post">
                             <button type="submit" name="paket" value="paket3">Beli</button>
                         </form>
                     </div>
